@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-
 
     <head>
         <title>Network Manager (SITN 2021)</title>
@@ -84,6 +81,3 @@
         </main>
 
     </body>
-
-
-</html>
