@@ -6,6 +6,9 @@
         <title>Network Manager (SITN 2021)</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="icon" 
+        type="image/png" 
+        href="./step-into-the-nhs-logo.svg">
         <link rel="stylesheet" href="bs.css">
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -17,7 +20,7 @@
             <div class="collapse" id="navbarToggleExternalContent">
               <div class="bg-dark p-4 row">
                   <div class="col-sm-2 p-3">
-                      <img src="img/step-into-the-nhs-logo.svg" height="80">
+                      <img src="./step-into-the-nhs-logo.svg" height="80">
                   </div>
                   <div class="col-sm-10 p-3">
                     <p class="mb-0 pb-0" style="font-size: smaller; visibility: hidden;">test</p>
